@@ -282,5 +282,5 @@ function updatePackageVersions(previousVersion, nextVersion) {
     }
   });
 }
-
+:
 main();
